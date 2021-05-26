@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/utiles/ConexionBD.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/modelo/Usuarios.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/controlador/RolControlador.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/controlador/PermisoControlador.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/web/roles.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/dao/UsuariosDAOimpl.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/web/usuarios.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/web/frmpermisos.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/dao/UsuariosDAO.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/modelo/Roles.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/web/frmroles.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/controlador/UsuarioControlador.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/web/frmusuarios.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/dao/PermisosDAOimpl.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/dao/RolesDAOimpl.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/web/permisos.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/modelo/Permisos.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/dao/PermisosDAO.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/TE_SegundoParcial/src/java/com/emergentes/dao/RolesDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
